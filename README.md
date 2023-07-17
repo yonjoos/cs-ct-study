@@ -3,12 +3,18 @@
 
 <br />
 
-### 🟨 이번 주 문제 (💭 / ☑️)
+### 💻 이번 주 문제 (💭 / ☑️)
 
 
 | 1 주차    | 날짜                                                         | 문제명                                                       | 난이도                                                       | 풀이여부                      | 문제명                                                       | 난이도                                                       | 풀이여부                      |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: |
 | Week 1 | 23.07.17<br /> 23.07.18<br /> 23.07.19<br /> 23.07.20<br /> 23.07.21<br /> | [숫자 빈도수](https://www.acmicpc.net/problem/14912)<br/> [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)<br/> [연속합](https://www.acmicpc.net/problem/1912)<br/> [배열 돌리기](https://www.acmicpc.net/problem/17276)<br/> [촌수계산](https://www.acmicpc.net/problem/17276)<br/>  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> | 💭<br /> 💭<br /> 💭<br /> 💭<br /> 💭<br /> | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)<br/> [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)<br/> [연속합](https://www.acmicpc.net/problem/1912)<br/> [배열 돌리기](https://www.acmicpc.net/problem/17276)<br/> [촌수계산](https://www.acmicpc.net/problem/17276)<br/>  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br/> | 💭<br /> 💭<br /> 💭<br /> 💭<br /> 💭<br /> |
+
+### 📖 이번 주 주제 (💭 / ☑️)
+
+| 1 주차    |  주제                                                         | 분류                             | 작성여부                      | 
+| ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: |  :-------:  |
+| Week 1 | OSI 7계층 | Network | 💭<br /> | OSI 7계층 | Network | 💭<br /> |
 
 
 <br />
@@ -17,6 +23,7 @@
 ### :pencil: Rule  
 - 스터디 시간 : 수요일 오후 7시  
 - 일주일 동안 5문제 꾸준히 풀기 (평일 최소 하루에 한 문제씩)
+- 일주일에 하나의 주제를 정해서 정리
 - 플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)/프로그래머스를 사용한다. 
 - 참여 방법 설명글: <https://waytocse.tistory.com/59>
 - 위 링크는 참고용이며, 저희의 스터디 규칙은 아래를 참고해주세요
@@ -33,6 +40,13 @@
 6. 원본 저장소로 `Pull Request`를 한다. 
 7. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 8. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
+
+### Reference
+
+- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)
+- [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote)
 
 <br />
 <br />
@@ -68,9 +82,18 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 홍길동"
   * [SEA] - 삼성SW Expert Academy
   * [ETC] - 그외
 
-<br />
 ### CS
-- commit 메세지: [과목] 주제 / 이름
+> [CS-study Repo 가이드](https://www.notion.so/CS-study-Repo-3428a7e4213345ffa08362c7abea8528)
+
+- **주제별 정리** : 이론정리, 구현, 자료업로드, 질의응답
+- **Commit convention rule** : [대주제] 소주제 분류(이론정리/구현/...) _ex) <DataStructure> Stack 자료정리_
+- **Branch naming convention** : 대주제/닉네임 _ex) DataStructure/Nickname_
+- 터미널에서 작성법: 
+```
+git commit -m "<DataStructure> Stack 자료정리_" 
+```
+<br />
+
 <br />
 
 ## ✅ PR 규칙
@@ -103,7 +126,7 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 홍길동"
                   
 ​                   
 
-##  🟨 알고리즘 풀이 (2023.07.17 ~ )
+## 💻 알고리즘 풀이 (2023.07.17 ~ )
 
 > **[ 스터디 방식 ]**
 >
@@ -116,3 +139,16 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 홍길동"
 |          주차          |    날짜      | 문제명                                                       | 난이도                                   | 풀이여부 |문제명                                                       | 난이도                                   | 풀이여부 |
 | --------------- | ---------------  | ------------------------------------------------------------ | :----------------------------------------: | :--------: | ------------------------------------------------------------ | :----------------------------------------: | :--------: |
 | Week1 | 23.07.17<br /> 23.07.18<br /> 23.07.19<br /> 23.07.20<br /> 23.07.21<br /> | [스택 수열](https://www.acmicpc.net/problem/1874)<br />[후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[후위 표기식](https://www.acmicpc.net/problem/1918)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                 | 💭<br />💭<br />💭<br />💭<br />💭 | [스택 수열](https://www.acmicpc.net/problem/1874)<br />[후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[후위 표기식](https://www.acmicpc.net/problem/1918)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                 | 💭<br />💭<br />💭<br />💭<br />💭 |
+
+<br />
+<br />
+
+## 📖 CS 정리 (2023.07.17 ~ )
+> **[ 스터디 방식 ]**
+>
+> 1. CS 스터디는 매주 최소 하나의 주제를 정해서 정리한다. (💭 / ☑️)
+> 2. 각자 정리 후 스터디 모임 때 발표를 진행한다.
+
+| 주차    |  주제                                                         | 분류                             | 작성여부                      | 
+| ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: |  :-------:  |
+| Week 1 | OSI 7계층 | Network | 💭<br /> |
