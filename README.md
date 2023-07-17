@@ -90,7 +90,7 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 홍길동"
 - **Branch naming convention** : 대주제/닉네임 _ex) DataStructure/Nickname_
 - 터미널에서 작성법: 
 ```
-git commit -m "<DataStructure> Stack 자료정리_" 
+git commit -m "[DataStructure] Stack 자료정리_" 
 ```
 <br />
 
