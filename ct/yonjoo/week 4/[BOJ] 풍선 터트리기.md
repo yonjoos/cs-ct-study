@@ -1,7 +1,9 @@
 ‘’’Java
-
+import java.io.*;
+import java.util.*;
 
 public class Main {
+// 0 1 2 3 4
     public static void func(int[] arr, int[] check, int n){
         int index = n-1;
         if(index >= arr.length) index = index - arr.length;
